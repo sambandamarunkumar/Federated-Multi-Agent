@@ -30,21 +30,20 @@ workloads demonstrates improved priority satisfaction, throughput, and scalabili
   Built and evaluated a Kubernetes-native prototype showing consistent reductions in pod wait time across cluster sizes.
   
 ### Relevance & Real-World Impact
-- **Improved Precision in Bottleneck Diagnosis:**
-  Significantly reduced misattribution of performance issues by enabling precise identification of Input/Output bottlenecks through multimodal signal correlation.
+- **Reduced Scheduling Latency:**
+  Significantly lowered pod waiting times, especially for high-priority workloads under contention.
    
-- **Faster and More Reliable Performance Troubleshooting:**
-Enabled quicker diagnosis and mitigation of performance degradation, reducing operational delays caused by fragmented observability and manual analysis.
+- **Improved Scalability:**
+Removed centralized bottlenecks, enabling faster and more adaptive scheduling as clusters grow.
 
-- **Scalable Observability for Distributed and Cloud-Native Pipelines:**
-    Demonstrated effectiveness across varying cluster sizes and workload intensities, maintaining diagnostic accuracy as coordination overhead and I/O contention evolve with scale.
+- **Adaptive and Resilient Scheduling:**
+    Continuously adjusted to dynamic workloads and node conditions, improving cluster stability.
   
-  **Operational Stability Under Dynamic Workloads:**
-  Improved system stability by providing continuous visibility into shifting I/O contention patterns, supporting proactive performance management instead of reactive tuning.
+  **Efficient Resource Usage:**
+  Enhanced workload distribution and reduced congestion across heterogeneous nodes.
    
-- **Production and Research Applicability:**
-    Delivered a framework compatible with modern distributed and cloud native environments, offering a complete reference model architecture, implementation, and evaluation suitable
-    for industry observability platforms, academic research, and advanced systems education.
+- **Production and Research Ready:**
+    Delivered a deployable, API-compatible framework suitable for industry use, research, and advanced education.
 
 ### Experimental Results (Summary)
 
