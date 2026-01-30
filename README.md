@@ -1,6 +1,6 @@
 
 # federated-multi-agent
-**FEDERATED MULTI AGENT REINFORCEMENT LEARNING FOR PRIORITY AWARE POD SCHEDULING IN KUBERNETES**
+**Federated Multi Agent Reinforcement Learning For Priority Aware Pod Scheduling In Kubernetes**
 
 ### Paper Information
 - **Author(s):** Arunkumar Sambandam
@@ -48,15 +48,15 @@ Removed centralized bottlenecks, enabling faster and more adaptive scheduling as
 ### Experimental Results (Summary)
 
   | Nodes | Baseline scheduler laltenccy (ms) | Reinforced Adaptive wait Optimization (ms) | Improvment (%)  |
-  |-------|---------------------------------------| ---------------------------------------| ----------------|
-  | 3     |  120                                  | 95                                     | 20.83           |
-  | 5     |  145                                  | 115                                    | 20.69           |
-  | 7     |  175                                  | 140                                    | 20.00           |
-  | 9     |  210                                  | 165                                    | 21.43           |
-  | 11    |  250                                  | 195                                    | 22.00           |
+  |-------|-----------------------------------| -------------------------------------------| ----------------|
+  | 3     |  4.8                              | 2.9                                        | 39.58           |
+  | 5     |  4.3                              | 2.4                                        | 44.19           |
+  | 7     |  3.9                              | 2                                          | 48.72           |
+  | 9     |  3.6                              | 1.8                                        | 50.00           |
+  | 11    |  3.4                              | 1.6                                        | 52.94           |
 
 ### Citation
-Multimodal Observability for Input Output Bottleneck Detection
+Federated Multi Agent Reinforcement Learning For Priority Aware Pod Scheduling In Kubernetes
 * Arunkumar Sambandam
 * ***********************************International Journal of Leading Research Publication 
 * ISSN E-ISSN: *****************************2582-8010
