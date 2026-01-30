@@ -17,17 +17,17 @@ jointly considering pod priority, resource efficiency, and scheduling latency wh
 workloads demonstrates improved priority satisfaction, throughput, and scalability compared to traditional and learning-based schedulers.
 
 ### Key Contributions
-- **Multimodal Observability Framework for I/O Bottleneck Detection:**
-  Proposed a structured observability architecture that overcomes the limitations of single-modal monitoring by integrating metrics, logs, and traces into a unified model for distributed data pipelines.
+- **Federated Learning–Based Scheduler:**
+  Proposed a decentralized reinforcement learning scheduler that replaces centralized, heuristic-driven Kubernetes scheduling.
   
-- **Cross-Layer Correlation of I/O Behavior:**
-  Introduced a correlation mechanism that aligns low-level Input/Output signals with execution paths and system events, enabling accurate localization of bottlenecks across storage, network, and application layers.
-  
-- **Pipeline-Wide Bottleneck Identification Methodology:**
-  Developed a systematic approach to distinguish true Input/Output bottlenecks from secondary performance symptoms by analyzing interactions across pipeline stages under dynamic workloads.
-   
-- **End-to-End Design, Implementation, and Experimental Evaluation:**
-  Designed, implemented, and validated the framework using distributed pipeline simulations across multiple cluster sizes, demonstrating consistent reductions in request completion time compared to baseline observability approaches.
+- **Priority-Aware Placement:**
+  Designed a learning objective that integrates pod priority, latency, and resource efficiency for improved placement decisions.
+    
+- **Decentralized and Coordinated Learning:**
+  Implemented federated coordination to synchronize multiple local agents while preserving scalability and autonomy.
+     
+- **End-to-End Validation:**
+  Built and evaluated a Kubernetes-native prototype showing consistent reductions in pod wait time across cluster sizes.
   
 ### Relevance & Real-World Impact
 - **Improved Precision in Bottleneck Diagnosis:**
