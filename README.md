@@ -47,7 +47,7 @@ Removed centralized bottlenecks, enabling faster and more adaptive scheduling as
 
 ### Experimental Results (Summary)
 
-  | Nodes | Baseline Request Completion Time (ms) | Multimodal Request Completion Tim (ms) | Improvment (%)  |
+  | Nodes | Baseline scheduler laltenccy (ms) | Reinforced Adaptive wait Optimization (ms) | Improvment (%)  |
   |-------|---------------------------------------| ---------------------------------------| ----------------|
   | 3     |  120                                  | 95                                     | 20.83           |
   | 5     |  145                                  | 115                                    | 20.69           |
