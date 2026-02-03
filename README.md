@@ -3,12 +3,10 @@
 **Federated Multi Agent Reinforcement Learning For Priority Aware Pod Scheduling In Kubernetes**
 
 ### Paper Information
-- **Author(s):** Arunkumar Sambandam
-- **Published In:** *********************************************International Journal of Leading Research Publication (IJLRP)
-- **Publication Date:** ******Aug 2021
-- **ISSN:** E-ISSN: **********2582-8010
-- **DOI:**
-- **Impact Factor:** *******9.56
+- **Author(s): Arunkumar Sambandam
+- **Published In: WCASET 2025 conference 
+- **Publication Date:** 18-19 Dec 2025
+
 
 ### Abstract
 This work addresses the limitations of Kubernetes’ centralized, heuristic-based scheduler in managing heterogeneous, priority-sensitive workloads at scale. It proposes a decentralized, 
@@ -57,15 +55,12 @@ Removed centralized bottlenecks, enabling faster and more adaptive scheduling as
 
 ### Citation
 Federated Multi Agent Reinforcement Learning For Priority Aware Pod Scheduling In Kubernetes
-* Arunkumar Sambandam
-* ***********************************International Journal of Leading Research Publication 
-* ISSN E-ISSN: *****************************2582-8010
-* License \
+**Name** Arunkumar Sambandam
+
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
-**Resources** \
-https://www.ijlrp.com*****************/ \
-**Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: arunkumar.sambandam@yahoo.com
+
+**Author Contact** 
+**LinkedIn**: linkedin.com/in/arunkumar-sambandam-9b769b6| **Email**: arunkumar.sambandam@yahoo.com
 
 
 
