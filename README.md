@@ -57,7 +57,7 @@ Removed centralized bottlenecks, enabling faster and more adaptive scheduling as
 Federated Multi Agent Reinforcement Learning For Priority Aware Pod Scheduling In Kubernetes
 **Name** Arunkumar Sambandam
 This research is shared for a academic and research purposes. For commercial use, please contact the author.
-**Author Contact** 
+**Author Contact** \
 **LinkedIn**: linkedin.com/in/arunkumar-sambandam-9b769b6| **Email**: arunkumar.sambandam@yahoo.com
 
 
